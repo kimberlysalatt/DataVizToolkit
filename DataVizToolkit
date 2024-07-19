@@ -1,0 +1,19 @@
+DataVizToolkit/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── src/
+│   ├── __init__.py
+│   └── data_viz_toolkit.py
+├── examples/
+│   └── example_notebook.ipynb
+├── tests/
+│   ├── __init__.py
+│   └── test_data_viz_toolkit.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
